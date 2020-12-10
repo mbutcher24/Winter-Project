@@ -17,10 +17,17 @@ def num():
     print(str("6"))
 ttk.Button(mainframe, text="num", command=num).grid(column=3, row=3, sticky=W)
 
-image = Image.open('C:\\Users\\Mallory Butcher\\Desktop\\Winter Choice Project\\Princess Mary Start and End.png')
+image = Image.open('Princess Mary Start and End.png')
 image = image.resize((600, 450), Image.ANTIALIAS)
 image =  ImageTk.PhotoImage(image)
-ttk.Label(mainframe, image = image).grid(column=6, row=6, sticky=E)
+ttk.Label(mainframe, image = image).grid(column=24, row=6, sticky=N)
+root.geometry('1500x600')
+windowWidth = root.winfo_reqwidth()
+positionRight = int(root.winfo_screenwidth()/2 - windowWidth/2)
+print(positionRight)
+print(f'+{positionRight}+0')
+root.geometry(f'+{positionRight}+0')
+
 
 
 
