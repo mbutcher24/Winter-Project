@@ -241,3 +241,396 @@
 		]
 	
 	},
+{
+	"Path BA":{
+		"text": "Mary rushed out, her heart pounding in her chest. In her sprint, she tripped over the log. She pushed herself back to her feet and continued running. 
+			Soon enough, she arrived back where she started at the divide in the paths. The left shining brightly. The song of the girl can still be heard. 
+			On her right was quite dark from the canope above, a tree in the path and something rustling in the bushes.",
+
+		"image": ,
+
+		"choices":[{
+			"text": "Take the path on the left."
+
+			"direction": "Path A"	
+			},
+			{
+			"text": "Take the path on the right."
+
+			"direction": "Path B"
+			},
+			{
+			"text": "Play in the mud pit next to the castle."
+
+			"direction": "Path C"
+
+			}
+		]
+	
+	},
+{
+	"Path BB":{
+		"text": "Mary scooped up the frog in her hands. She examined its slimy skin and indifferent eyes. Quite a normal frog indeed.
+			\“Apologies, madam, for my poor introduction,\” the frog croaked. Mary blinked, shaking her head. 
+			\“Wha… Who are you?\” she interrogated.
+			The frog raised his arm. /“Why of course, I am Prince Ferdinand. I was cursed to be a frog for my father’s arrogance. 
+			If I am kissed, however, I will return to my human form. Please, young maiden, I am in dire need of assistance!/”
+",
+
+		"image": ,
+
+		"choices":[{
+			"text": "Kiss the frog."
+
+			"direction": "Path BBA"	
+			},
+			{
+			"text": "Throw the frog."
+
+			"direction": "Path BBB"
+			},
+			{
+			"text": "Play Cupid."
+
+			"direction": "Path BBC"
+
+			}
+		]
+	
+	},
+{
+	"Path BBB":{
+		"text": "Well… I mean, I get it. But still. 
+			Mary sent the frog flying across the forest. His rebuttals faded into the night. Mary felt pretty bad for throwing a helpless creature to their doom-
+			What do you mean, “She didn’t”? Isn’t that kinda- Whatever.
+			Mary strolled back to the castle. She eventually arrived back where she started at the divide in the paths. The left shining brightly. 
+			The song of nature can still be heard. On her right was quite dark from the canope above, a tree in the path and something rustling in the bushes.”,
+
+		"image": ,
+
+		"choices":[{
+			"text": "Take the path on the left."
+
+			"direction": "Path A"	
+			},
+			{
+			"text": "Take the path on the right."
+
+			"direction": "Path B"
+			},
+			{
+			"text": "Play in the mud pit next to the castle."
+
+			"direction": "Path C"
+
+			}
+		]
+	
+	},
+{
+	"Path BBC":{
+		"text": "Mary scanned through the trees. A tower’s shadow crossed over the calm stream. Stones ran in circles to the top, giving way to a window. 
+			Inside, light shone upon a beautiful young girl. Her blonde hari fell to the base of the tower. Mary smirked. /“I think I have an idea./”
+			\“Hello!\” Mary introduced on arrival, holding the frog in one hand and waving with the other, “We need some help.” The girl sighed, nodding along.
+			With Rapunzal’s kiss, the frog returned to his royal form. The three celebrated late into the night. Mary returned home with a skip in her step under the glittering moonlight. 
+			She crawled into bed, eyes fluttering to a close, eagerly awaiting morning.”,
+
+		"image": ,
+
+		"choices":[{
+			"text": "Quit."
+
+			"direction": "Quit"
+			},
+			{
+			"text": "Start Over."
+
+			"direction": "Intro"
+
+			}
+		]
+	
+	},
+{
+	"Path BC":{
+		"text": "Well, that was quite rude, don’t you think? No? Just me? 
+			Anyway, the frog flopped onto his back. Not another croak. Mary skipped along the trail. No more voices. Good for her. 
+			Do you feel bad yet? No? 
+			Fine, Mary arrived back where she started at the divide in the paths. The left shining brightly. The song of nature can still be heard. 
+			On her right was quite dark from the canope above, a tree in the path and something rustling in the bushes.”,
+
+		"image": ,
+
+		"choices":[{
+			"text": "Take the path on the left."
+
+			"direction": "Path A"	
+			},
+			{
+			"text": "Take the path on the right."
+
+			"direction": "Path B"
+			},
+			{
+			"text": "Play in the mud pit next to the castle."
+
+			"direction": "Path C"
+
+			}
+		]
+	
+	},
+{
+	"Path C":{
+		"text": "Did you miss something? I said the Princess wanted adventure!”,
+
+		"image": ,
+
+		"choices":[{
+			"text": "Mud is an adventure too!"
+
+			"direction": "Path CA"	
+			},
+			{
+			"text": "Fine, left."
+
+			"direction": "Path CB"
+			},
+			{
+			"text": "Fine, right."
+
+			"direction": "Path CC"
+
+			}
+		]
+	
+	},
+{
+	"Path CA":{
+		"text": "EXCUSE ME? I speak in no uncertain terms when I say choose. A. Path.”,
+
+		"image": ,
+
+		"choices":[{
+			"text": "Mud is a path."
+
+			"direction": "Path CA"	
+			},
+			{
+			"text": "Fine, left."
+
+			"direction": "Path CB"
+			},
+			{
+			"text": "Fine, right."
+
+			"direction": "Path CC"
+
+			}
+		]
+	
+	},
+{
+	"Path CAA":{
+		"text": "YOU KNOW WHAT? Fine. Have it your way. 
+			The Princess played in mud. She could have had an adventure, made new friends, and had so much fun, but she played in mud. 
+			Let’s just throw a pig in there for good measure.”,
+
+		"image": ,
+
+		"choices":[{
+			"text": "Mary's smiling."
+
+			"direction": "Path CAAA"	
+			},
+			{
+			"text": "I like pigs."
+
+			"direction": "Path CAAB"
+			},
+			{
+			"text": "I'm sorry."
+
+			"direction": "Path CAAC"
+
+			}
+		]
+	
+	},
+{
+	"Path CAAA":{
+		"text": "WELL MARY AIN’T THAT BRIGHT, IS SHE? I’m done. You enjoy your filthy Princess.”,
+
+		"image": ,
+
+		"choices":[{
+			"text": "Quit."
+
+			"direction": "Quit"
+			},
+			{
+			"text": "Start Over."
+
+			"direction": "Intro"
+
+			}
+		]
+	
+	},
+{
+	"Path CAAB":{
+		"text": "STOP TORMENTING ME, YOU SAVAGE BEAST! You know what? I quit. You are the narrator now. 
+			And when some hip young-folk come prancing around trying to tell you how to do your job, I hope you have more staying power than me. 
+			Pigs. 
+			REALLY?”,
+
+		"image": ,
+
+		"choices":[{
+			"text": "Quit."
+
+			"direction": "Quit"
+			},
+			{
+			"text": "Start Over."
+
+			"direction": "Intro"
+
+			}
+		]
+	
+	},
+{
+	"Path CAAC":{
+		"text": "Too little, too late. No one can remove the demonic creature let loose apon this dreary Earth. The end is nigh. See you when winter never comes.”,
+
+		"image": ,
+
+		"choices":[{
+			"text": "Quit."
+
+			"direction": "Quit"
+			},
+			{
+			"text": "Start Over."
+
+			"direction": "Intro"
+
+			}
+		]
+	
+	},
+{
+	"Path CAB":{
+		"text": "Thank goodness. Almost had some… technical difficulties there. Princess Mary cheerily glided across the dampened blades of grass at her feet. The sun peered over the horizon. 
+			The singing birds grew a little louder with every step. Mary walked in peace for hours until she suddenly stumbled on a tour. 
+			The looming, circular stack of stone casted a long shadow over the land. On arrival, Mary realized the singing was not that of birds, rather of a girl.	
+			A stunningly beautiful pale girl sat perched in the window of the tower, singing somberly. Her golden hair fell far past what could be seen through the window.”,
+
+		"image": ,
+
+		"choices":[{
+			"text": "Call out to the girl."
+
+			"direction": "Path AA"	
+			},
+			{
+			"text": "Look for an entrance to the tower."
+
+			"direction": "Path AB"
+			},
+			{
+			"text": "Throw a rock and run."
+
+			"direction": "Path AC"
+
+			}
+		]
+	
+	},
+{
+	"Path CAC":{
+		"text": "Not ideal, but I can work with this. Mary hiked up her skirt and marched onward down the shadowy path. The rustling of leaves stayed constant on her journey. 
+			As the path grew muddy, croaking frogs piped up. Mary jumped over the log, rushed by the sudden adrenaline. 
+			\“Why hello, fair maiden!\” a voice called out, charming and loud. Mary turned around. No one was there. She continued on walking, picking up her pace.
+			\“Wait, don’t go!\” the voice cried. Mary glanced around once more. Again, no one. No one but the frog croaking at her feet.
+”,
+
+		"image": ,
+
+		"choices":[{
+			"text": "Sprint out of the woods."
+
+			"direction": "Path BA"	
+			},
+			{
+			"text": "Pick up the frog."
+
+			"direction": "Path BB"
+			},
+			{
+			"text": "Kick the frog out of the way and keep walking."
+
+			"direction": "Path BC"
+
+			}
+		]
+	
+	},
+{
+	"Path CB":{
+		"text": "Good, just a hiccup. Princess Mary cheerily glided across the dampened blades of grass at her feet. The sun peered over the horizon. 
+			The singing birds grew a little louder with every step. Mary walked in peace for hours until she suddenly stumbled on a tour. 
+			The looming, circular stack of stone casted a long shadow over the land. On arrival, Mary realized the singing was not that of birds, rather of a girl.	
+			A stunningly beautiful pale girl sat perched in the window of the tower, singing somberly. Her golden hair fell far past what could be seen through the window.”,
+
+		"image": ,
+
+		"choices":[{
+			"text": "Call out to the girl."
+
+			"direction": "Path AA"	
+			},
+			{
+			"text": "Look for an entrance to the tower."
+
+			"direction": "Path AB"
+			},
+			{
+			"text": "Throw a rock and run."
+
+			"direction": "Path AC"
+
+			}
+		]
+	
+	},
+{
+	"Path CC":{
+		"text": "Uhm... Gotcha! This can be fine! Mary hiked up her skirt and marched onward down the shadowy path. The rustling of leaves stayed constant on her journey. 
+			As the path grew muddy, croaking frogs piped up. Mary jumped over the log, rushed by the sudden adrenaline. 
+			\“Why hello, fair maiden!\” a voice called out, charming and loud. Mary turned around. No one was there. She continued on walking, picking up her pace.
+			\“Wait, don’t go!\” the voice cried. Mary glanced around once more. Again, no one. No one but the frog croaking at her feet.
+”,
+
+		"image": ,
+
+		"choices":[{
+			"text": "Sprint out of the woods."
+
+			"direction": "Path BA"	
+			},
+			{
+			"text": "Pick up the frog."
+
+			"direction": "Path BB"
+			},
+			{
+			"text": "Kick the frog out of the way and keep walking."
+
+			"direction": "Path BC"
+
+			}
+		]
+	
+	}
