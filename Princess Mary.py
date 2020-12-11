@@ -21,12 +21,9 @@ image = Image.open('Princess Mary Start and End.png')
 image = image.resize((600, 450), Image.ANTIALIAS)
 image =  ImageTk.PhotoImage(image)
 ttk.Label(mainframe, image = image).grid(column=24, row=6, sticky=N)
-root.geometry('1500x600')
-windowWidth = root.winfo_reqwidth()
-positionRight = int(root.winfo_screenwidth()/2 - windowWidth/2)
-print(positionRight)
-print(f'+{positionRight}+0')
-root.geometry(f'+{positionRight}+0')
+
+json.loads(open('The Adventures of Princess Mary.json', 'r', encoding="utf-8").read())
+
 
 
 
