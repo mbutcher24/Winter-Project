@@ -26,7 +26,7 @@
 	"Path A":{
 		"text": "Princess Mary cheerily glided across the dampened blades of grass at her feet. The sun peered over the horizon. The singing birds grew a little louder with every step. Mary walked in peace for hours until she suddenly stumbled on a tour. The looming, circular stack of stone casted a long shadow over the land. On arrival, Mary realized the singing was not that of birds, rather of a girl. A stunningly beautiful pale girl sat perched in the window of the tower, singing somberly. Her golden hair fell far past what could be seen through the window.",
 
-		"image": "",
+		"image": "Meeting Rapunzal.png",
 
 		"choices":[{
 			"text": "Call out to the girl.",
@@ -52,7 +52,7 @@
 	"Path AA":{
 		"text": "\"Hello?\" Mary’s voice echoed through the light air. \"Who is there?\" the girl shouted back, scanning the ground. When she finally spotted Mary, she squealed, cowaring behind the window frame. \"Don’t be scared!\" Mary reached out, \"I was just on a walk. I mean no harm. My name is Mary. What’s your name?\" \"Rapunzal,\" she peaked her eyes back out. Mary walked to the base of the tower. \"Is there any way up?\" Mary asked. Faster than she perceived, a glowing golden mass fell downward. Mary flopped against the ground, her rib cage aching. \"Oh shoot! I am so sorry!\" Rapunzal cried, \"My hair is the only way I know up, so I just - I am sorry!\" Mary smiled widely. \"It’s alright. Nothing a little ice can’t fix.\" Mary pushed off the tail end of Rapunzal’s hair and proceeded to climb. The two spent the rest of the day together, talking, reading, and playing rounds of broom fights. The moon shone out from between clouds. The sound of croaking came from the base of the tower.",
 
-		"image": "",
+		"image": "Mary and Rapunzal.png",
 
 		"choices":[{
 			"text": "Check the source of the sound.",
@@ -78,7 +78,7 @@
 	"Path AAA":{
 		"text": "Mary cautiously let down Rapunzal’s hair. She slid to the bottom and looked around. The only thing in sight was a frog perched upon a rock. \"Hello there, dear girl! I am in need of some assistance,\" the frog croaked. Mary jumped in surprise. She lifted a nearby rock above her head. \"Who are you and what do you want?\" she interrogated. The frog shook his head. \"No, no, don’t be frightened! I am Prince Ferdinand. I was cursed to be a frog and require a kiss to turn human again,\" he explained. \"Everything okay down there?\" Rapunzal called. Mary glanced up, smirking. \"I think I have an idea.\" With Rapunzal’s kiss, the frog returned to his royal form. The three celebrated late into the night. Mary returned home with a skip in her step under the glittering moonlight. She crawled into bed, eyes fluttering to a close, eagerly awaiting morning.",
 
-		"image": "",
+		"image": "Rapunzal and Frog End.png",
 
 		"choices":[{
 			"text": "Quit.",
@@ -98,7 +98,7 @@
 	"Path AAB":{
 		"text": "\"How would you like to come back with me?\" Mary posed. Rapunzal debated. \"Well, my mother might not like that, but… Let’s go!\" Rapunzal left a note for her mother. The two climbed down Rapunzal’s hair, walking hand-in-hand back to Mary’s castle. At the end of the night, after she walked Rapunzal back to her tower, Mary crawled into bed, eyes fluttering to a close, eagerly awaiting morning.",
 
-		"image": "",
+		"image": "Princess Mary Start and End.png",
 
 		"choices":[{
 			"text": "Quit.",
@@ -118,7 +118,7 @@
 	"Path AAC":{
 		"text": "Mary leapt out the window, plummeting into the ground headfirst. \"What the heck? Are you okay down there?\" Rapunzal called from the window. Mary held a thumbs-up, \"Never better…\" You were doing so good, too… ",
 
-		"image": "",
+		"image": "Mary and Rapunzal.png",
 
 		"choices":[{
 			"text": "Quit.",
@@ -138,7 +138,7 @@
 	"Path AB":{
 		"text": "Mary tip-toed around the tower’s base. After a few minutes of digging, a door became visible. Mary used all of her force to pull, revealing a spiral staircase leading upward. Mary sprinted up, fueled by excitement. At the top of the stairs, she popped her head through the hatch. No one was there… Quite odd. BAM! Mary tumbled backward down the staircase at the blunt force of a book against her head. Maybe try not to sneak into someone else’s house next time.",
 
-		"image": "",
+		"image": "Meeting Rapunzal.png",
 
 		"choices":[{
 			"text": "Quit.",
@@ -158,7 +158,7 @@
 	"Path AC":{
 		"text": "But… Why? Mary hit the girl in the forehead straight between the eyes. Great shot. Mary can even see a bruise from here. Are you happy? Mary walked back, weighed down by the guilt she felt from hurting someone so rudely- Wait, I’m not supposed to say that? Well, what should I say? Ahem, so apparently Mary is cool with that. She arrived back where she started at the divide in the paths. The left shining brightly. The song of the girl can still be heard. On her right was quite dark from the canope above, a tree in the path and something rustling in the bushes.",
 
-		"image": "",
+		"image": "Fork In Road PM.png",
 
 		"choices": [{
 			"text": "Take the path on the left.",
@@ -183,7 +183,7 @@
 	"Path B":{
 		"text": "Huh? Well, I guess we can work with this. Mary hiked up her skirt and marched onward down the shadowy path. The rustling of leaves stayed constant on her journey. As the path grew muddy, croaking frogs piped up. Mary jumped over the log, rushed by the sudden adrenaline. \"Why hello, fair maiden!\" a voice called out, charming and loud. Mary turned around. No one was there. She continued on walking, picking up her pace. \"Wait, don’t go!\" the voice cried. Mary glanced around once more. Again, no one. No one but the frog croaking at her feet.",
 
-		"image": "",
+		"image": "Frog Meeting PM.png",
 
 		"choices":[{
 			"text": "Sprint out of the woods.",
@@ -209,7 +209,7 @@
 	"Path BA":{
 		"text": "Mary rushed out, her heart pounding in her chest. In her sprint, she tripped over the log. She pushed herself back to her feet and continued running. Soon enough, she arrived back where she started at the divide in the paths. The left shining brightly. The song of the girl can still be heard. On her right was quite dark from the canope above, a tree in the path and something rustling in the bushes.",
 
-		"image": "",
+		"image": "Fork In Road PM.png",
 
 		"choices":[{
 			"text": "Take the path on the left.",
@@ -235,7 +235,7 @@
 	"Path BB":{
 		"text": "Mary scooped up the frog in her hands. She examined its slimy skin and indifferent eyes. Quite a normal frog indeed. \"Apologies, madam, for my poor introduction,\" the frog croaked. Mary blinked, shaking her head. \"Wha… Who are you?\" she interrogated. The frog raised his arm. \"Why of course, I am Prince Ferdinand. I was cursed to be a frog for my father’s arrogance. If I am kissed, however, I will return to my human form. Please, young maiden, I am in dire need of assistance!\"",
 
-		"image": "",
+		"image": "Frog Ending.png",
 
 		"choices":[{
 			"text": "Kiss the frog.",
@@ -257,11 +257,31 @@
 	
 	},
 
+"Path BBA":{
+		"text": "Mary planted a gentle kiss atop the frog’s head. After spitting into a river for a few minutes, Mary turned to see the frog had been replaced by a handsome young prince. \“Thank you, kind girl! If there is anything I could do for you do not hesitate to ask!\” the prince declared. Mary nodded as the two parted ways. Mary returned to the castle under the protection of mighty trees. She crawled into bed, eyes fluttering to a close, eagerly awaiting morning.",
+
+		"image": "Frog Ending.png",
+
+		"choices":[{
+			"text": "Quit.",
+
+			"direction": "Quit"
+			},
+			{
+			"text": "Start Over.",
+
+			"direction": "Intro"
+
+			}
+		]
+	
+	},
+
 
 	"Path BBB":{
 		"text": "Well… I mean, I get it. But still. Mary sent the frog flying across the forest. His rebuttals faded into the night. Mary felt pretty bad for throwing a helpless creature to their doom- What do you mean, \"She didn’t\"? Isn’t that kinda- Whatever. Mary strolled back to the castle. She eventually arrived back where she started at the divide in the paths. The left shining brightly. The song of nature can still be heard. On her right was quite dark from the canope above, a tree in the path and something rustling in the bushes.",
 
-		"image": "",
+		"image": "Fork In Road PM.png",
 
 		"choices":[{
 			"text": "Take the path on the left.",
@@ -287,7 +307,7 @@
 	"Path BBC":{
 		"text": "Mary scanned through the trees. A tower’s shadow crossed over the calm stream. Stones ran in circles to the top, giving way to a window. Inside, light shone upon a beautiful young girl. Her blonde hari fell to the base of the tower. Mary smirked. \"I think I have an idea.\" \"Hello!\" Mary introduced on arrival, holding the frog in one hand and waving with the other, \"We need some help.\" The girl sighed, nodding along. With Rapunzal’s kiss, the frog returned to his royal form. The three celebrated late into the night. Mary returned home with a skip in her step under the glittering moonlight. She crawled into bed, eyes fluttering to a close, eagerly awaiting morning.",
 
-		"image": "",
+		"image": "Rapunzal and Frog End.png",
 
 		"choices":[{
 			"text": "Quit.",
@@ -308,7 +328,7 @@
 	"Path BC":{
 		"text": "Well, that was quite rude, don’t you think? No? Just me? Anyway, the frog flopped onto his back. Not another croak. Mary skipped along the trail. No more voices. Good for her. Do you feel bad yet? No? Fine, Mary arrived back where she started at the divide in the paths. The left shining brightly. The song of nature can still be heard. On her right was quite dark from the canope above, a tree in the path and something rustling in the bushes.",
 
-		"image": "",
+		"image": "Fork In Road PM.png",
 
 		"choices":[{
 			"text": "Take the path on the left.",
@@ -334,7 +354,7 @@
 	"Path C":{
 		"text": "Did you miss something? I said the Princess wanted adventure!",
 
-		"image": "",
+		"image": "Fork In Road PM.png",
 
 		"choices":[{
 			"text": "Mud is an adventure too!",
@@ -360,7 +380,7 @@
 	"Path CA":{
 		"text": "EXCUSE ME? I speak in no uncertain terms when I say choose. A. Path.",
 
-		"image": "",
+		"image": "Fork In Road PM.png",
 
 		"choices":[{
 			"text": "Mud is a path.",
@@ -386,7 +406,7 @@
 	"Path CAA":{
 		"text": "YOU KNOW WHAT? Fine. Have it your way. The Princess played in mud. She could have had an adventure, made new friends, and had so much fun, but she played in mud. Let’s just throw a pig in there for good measure.",
 
-		"image": "",
+		"image": "Pig Time PM.png",
 
 		"choices":[{
 			"text": "Mary's smiling.",
@@ -412,7 +432,7 @@
 	"Path CAAA":{
 		"text": "WELL MARY AIN’T THAT BRIGHT, IS SHE? I’m done. You enjoy your filthy Princess.",
 
-		"image": "",
+		"image": "Pig Time PM.png",
 
 		"choices":[{
 			"text": "Quit.",
@@ -433,7 +453,7 @@
 	"Path CAAB":{
 		"text": "STOP TORMENTING ME, YOU SAVAGE BEAST! You know what? I quit. You are the narrator now. And when some hip young-folk come prancing around trying to tell you how to do your job, I hope you have more staying power than me. Pigs. REALLY?",
 
-		"image": "",
+		"image": "Pig Time PM.png",
 
 		"choices":[{
 			"text": "Quit.",
@@ -454,7 +474,7 @@
 	"Path CAAC":{
 		"text": "Too little, too late. No one can remove the demonic creature let loose apon this dreary Earth. The end is nigh. See you when winter never comes.",
 
-		"image": "",
+		"image": "Pig Time PM.png",
 
 		"choices":[{
 			"text": "Quit.",
@@ -475,7 +495,7 @@
 	"Path CAB":{
 		"text": "Thank goodness. Almost had some… technical difficulties there. Princess Mary cheerily glided across the dampened blades of grass at her feet. The sun peered over the horizon. The singing birds grew a little louder with every step. Mary walked in peace for hours until she suddenly stumbled on a tour. The looming, circular stack of stone casted a long shadow over the land. On arrival, Mary realized the singing was not that of birds, rather of a girl. A stunningly beautiful pale girl sat perched in the window of the tower, singing somberly. Her golden hair fell far past what could be seen through the window.",
 
-		"image": "",
+		"image": "Meeting Rapunzal.png",
 
 		"choices":[{
 			"text": "Call out to the girl.",
@@ -501,7 +521,7 @@
 	"Path CAC":{
 		"text": "Not ideal, but I can work with this. Mary hiked up her skirt and marched onward down the shadowy path. The rustling of leaves stayed constant on her journey. As the path grew muddy, croaking frogs piped up. Mary jumped over the log, rushed by the sudden adrenaline. \"Why hello, fair maiden!\" a voice called out, charming and loud. Mary turned around. No one was there. She continued on walking, picking up her pace. \"Wait, don’t go!\" the voice cried. Mary glanced around once more. Again, no one. No one but the frog croaking at her feet.",
 
-		"image": "",
+		"image": "Frog Meeting PM.png",
 
 		"choices":[{
 			"text": "Sprint out of the woods.",
@@ -527,7 +547,7 @@
 	"Path CB":{
 		"text": "Good, just a hiccup. Princess Mary cheerily glided across the dampened blades of grass at her feet. The sun peered over the horizon. The singing birds grew a little louder with every step. Mary walked in peace for hours until she suddenly stumbled on a tour. The looming, circular stack of stone casted a long shadow over the land. On arrival, Mary realized the singing was not that of birds, rather of a girl. A stunningly beautiful pale girl sat perched in the window of the tower, singing somberly. Her golden hair fell far past what could be seen through the window.",
 
-		"image": "",
+		"image": "Meeting Rapunzal.png",
 
 		"choices":[{
 			"text": "Call out to the girl.",
@@ -553,7 +573,7 @@
 	"Path CC":{
 		"text": "Uhm... Gotcha! This can be fine! Mary hiked up her skirt and marched onward down the shadowy path. The rustling of leaves stayed constant on her journey. As the path grew muddy, croaking frogs piped up. Mary jumped over the log, rushed by the sudden adrenaline. \"Why hello, fair maiden!\" a voice called out, charming and loud. Mary turned around. No one was there. She continued on walking, picking up her pace. \"Wait, don’t go!\" the voice cried. Mary glanced around once more. Again, no one. No one but the frog croaking at her feet.",
 
-		"image": "",
+		"image": "Frog Meeting PM.png",
 
 		"choices":[{
 			"text": "Sprint out of the woods.",
