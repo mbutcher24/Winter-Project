@@ -158,7 +158,7 @@
 	"Path AC":{
 		"text": "But… Why? Mary hit the girl in the forehead straight between the eyes. Great shot. Mary can even see a bruise from here. Are you happy? Mary walked back, weighed down by the guilt she felt from hurting someone so rudely- Wait, I’m not supposed to say that? Well, what should I say? Ahem, so apparently Mary is cool with that. She arrived back where she started at the divide in the paths. The left shining brightly. The song of the girl can still be heard. On her right was quite dark from the canope above, a tree in the path and something rustling in the bushes.",
 
-		"image": "Fork In Road PM.png",
+		"image": "Road Forking PM.png",
 
 		"choices": [{
 			"text": "Take the path on the left.",
@@ -209,7 +209,7 @@
 	"Path BA":{
 		"text": "Mary rushed out, her heart pounding in her chest. In her sprint, she tripped over the log. She pushed herself back to her feet and continued running. Soon enough, she arrived back where she started at the divide in the paths. The left shining brightly. The song of the girl can still be heard. On her right was quite dark from the canope above, a tree in the path and something rustling in the bushes.",
 
-		"image": "Fork In Road PM.png",
+		"image": "Road Forking PM.png",
 
 		"choices":[{
 			"text": "Take the path on the left.",
@@ -281,7 +281,7 @@
 	"Path BBB":{
 		"text": "Well… I mean, I get it. But still. Mary sent the frog flying across the forest. His rebuttals faded into the night. Mary felt pretty bad for throwing a helpless creature to their doom- What do you mean, \"She didn’t\"? Isn’t that kinda- Whatever. Mary strolled back to the castle. She eventually arrived back where she started at the divide in the paths. The left shining brightly. The song of nature can still be heard. On her right was quite dark from the canope above, a tree in the path and something rustling in the bushes.",
 
-		"image": "Fork In Road PM.png",
+		"image": "Road Forking PM.png",
 
 		"choices":[{
 			"text": "Take the path on the left.",
@@ -328,7 +328,7 @@
 	"Path BC":{
 		"text": "Well, that was quite rude, don’t you think? No? Just me? Anyway, the frog flopped onto his back. Not another croak. Mary skipped along the trail. No more voices. Good for her. Do you feel bad yet? No? Fine, Mary arrived back where she started at the divide in the paths. The left shining brightly. The song of nature can still be heard. On her right was quite dark from the canope above, a tree in the path and something rustling in the bushes.",
 
-		"image": "Fork In Road PM.png",
+		"image": "Road Forking PM.png",
 
 		"choices":[{
 			"text": "Take the path on the left.",
@@ -354,7 +354,7 @@
 	"Path C":{
 		"text": "Did you miss something? I said the Princess wanted adventure!",
 
-		"image": "Fork In Road PM.png",
+		"image": "Road Forking PM.png",
 
 		"choices":[{
 			"text": "Mud is an adventure too!",
@@ -380,7 +380,7 @@
 	"Path CA":{
 		"text": "EXCUSE ME? I speak in no uncertain terms when I say choose. A. Path.",
 
-		"image": "Fork In Road PM.png",
+		"image": "Road Forking PM.png",
 
 		"choices":[{
 			"text": "Mud is a path.",
