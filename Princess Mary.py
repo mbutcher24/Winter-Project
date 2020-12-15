@@ -1,47 +1,56 @@
 import tkinter as tk
-from tkinter import ttk
 from PIL import ImageTk, Image
+import json
+import functools
 
 root = tk.Tk()
 root.title("The Adventure of Princess Mary")
-'''
-mainframe = ttk.Frame(root, padding="3 3 12 12")
-mainframe.grid(column=0, row=0, sticky=(N, W, E, S))
-root.columnconfigure(0, weight=1)
-root.rowconfigure(0, weight=1)
-'''
+
 class TkApp(tk.Frame):
-	def __init__(self, master=None):
-		super().__init__(master)
-		self.master = master
-		self.pack()
-		self.create_widgets()
-		
-	def create_widgets(self):
-		self.imgLableImg = Image.open("Princess Mary Start and End.png")
-		self.imgLableImg = ImageTk.PhotoImage(self.imgLableImg)
-		self.imgLable = tk.Label(root, compound="top", image=self.imgLableImg, text="AHHH")
-		self.imgLable.pack(side="top")
-		
+        def __init__(self, master=None):
+                super().__init__(master)
+                self.master = master
+                self.pack()
+                self.perry = []
+                self.create_widgets()
+                self.dictionary = json.loads(open('The Adventures of Princess Mary.json', 'r', encoding="utf-8").read())
+                self.story_part("Intro")
 
 
-root = tk.Tk()
+        def create_widgets(self):
+                self.dufenshmerts = tk.Label(self)
+                self.incorporated = tk.Frame(self.dufenshmerts, height = 110, width = 850)
+                self.incorporated.pack_propagate(0)
+                self.incorporated.place(x=80, y=440)
+                self.evil = tk.Label(self.incorporated, wraplength=800, bg = "#E5C2D7")
+                
+
+
+
+        def story_part(self, name):
+                if name == 'Quit':
+                        root.destroy()
+                else:
+                        image = Image.open(self.dictionary[name]['image'])
+                        image = image.resize((1000, 600), Image.ANTIALIAS)
+                        image =  ImageTk.PhotoImage(image, master=self.master)
+                        self.dufenshmerts.image = image
+                        self.dufenshmerts.configure(image = image)
+                        self.dufenshmerts.pack(side="top")
+                        self.evil.configure(text = (self.dictionary[name]['text']))
+                        self.evil.pack(side="top", fill = tk.BOTH, expand = 1)
+                        for egg in self.perry:
+                                egg.pack_forget()
+                        self.perry = []
+                        for path in self.dictionary[name]['choices']:
+                                platypus = tk.Button(self, text = path['text'], command = functools.partial(self.story_part, path['direction']))
+                                platypus.pack(side="top")
+                                self.perry.append(platypus)
+                
+                
+
 app = TkApp(root)
 app.mainloop()
-
-ttk.Label(mainframe, text="Bubble").grid(column=2, row=4, sticky=E)
-
-def num():
-    num=6
-    print(str("6"))
-ttk.Button(mainframe, text="num", command=num).grid(column=3, row=3, sticky=W)
-
-image = Image.open('Princess Mary Start and End.png')
-image = image.resize((600, 450), Image.ANTIALIAS)
-image =  ImageTk.PhotoImage(image)
-ttk.Label(mainframe, image = image).grid(column=24, row=6, sticky=N)
-
-json.loads(open('The Adventures of Princess Mary.json', 'r', encoding="utf-8").read())
 
 
 

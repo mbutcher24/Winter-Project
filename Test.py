@@ -1,5 +1,6 @@
 import tkinter as tk
 from PIL import Image, ImageTk
+import json
 
 class TkApp(tk.Frame):
 	def __init__(self, master=None):
@@ -19,3 +20,6 @@ class TkApp(tk.Frame):
 root = tk.Tk()
 app = TkApp(root)
 app.mainloop()
+
+json.loads(open('The Adventures of Princess Mary.json', 'r', encoding="utf-8").read())
+json.loads(open(f.read["Intro"]))
