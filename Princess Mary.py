@@ -15,8 +15,9 @@ class TkApp(tk.Frame):
                 self.perry = []
                 self.create_widgets()
                 self.dictionary = json.loads(open('The Adventures of Princess Mary.json', 'r', encoding="utf-8").read())
-               # self.story_part("Intro")
-                #Gives access to json file containing story routes
+                self.story_part("Intro")
+                #Calls functions below and accesses json file containing story routes.
+
 
 
         def create_widgets(self):
@@ -28,7 +29,7 @@ class TkApp(tk.Frame):
                 #Creates text and images, controlling sizing and color
 
 
-'''
+
         def story_part(self, name):
                 if name == 'Quit':
                         root.destroy()
@@ -42,7 +43,7 @@ class TkApp(tk.Frame):
                         self.dufenshmerts.pack(side="top")
                         self.evil.configure(text = (self.dictionary[name]['text']))
                         self.evil.pack(side="top", fill = tk.BOTH, expand = 1)
-                        
+                        #Opens images and text
                         for egg in self.perry:
                                 egg.pack_forget()
                         self.perry = []
@@ -50,11 +51,14 @@ class TkApp(tk.Frame):
                                 platypus = tk.Button(self, text = path['text'], command = functools.partial(self.story_part, path['direction']))
                                 platypus.pack(side="top")
                                 self.perry.append(platypus)
+                        #Allows choices to direct user to correct parts
+                        #Determines direction of buttons and opens images.
                 
-                '''
+                
 
 app = TkApp(root)
 app.mainloop()
+#Creates an event loop
 
 
 
