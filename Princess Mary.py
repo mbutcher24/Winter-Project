@@ -5,6 +5,7 @@ import functools
 
 root = tk.Tk()
 root.title("The Adventure of Princess Mary")
+#Creates and titles new window for the game
 
 class TkApp(tk.Frame):
         def __init__(self, master=None):
@@ -14,7 +15,8 @@ class TkApp(tk.Frame):
                 self.perry = []
                 self.create_widgets()
                 self.dictionary = json.loads(open('The Adventures of Princess Mary.json', 'r', encoding="utf-8").read())
-                self.story_part("Intro")
+               # self.story_part("Intro")
+                #Gives access to json file containing story routes
 
 
         def create_widgets(self):
@@ -23,13 +25,14 @@ class TkApp(tk.Frame):
                 self.incorporated.pack_propagate(0)
                 self.incorporated.place(x=80, y=440)
                 self.evil = tk.Label(self.incorporated, wraplength=800, bg = "#E5C2D7")
-                
+                #Creates text and images, controlling sizing and color
 
 
-
+'''
         def story_part(self, name):
                 if name == 'Quit':
                         root.destroy()
+                #Stops the game
                 else:
                         image = Image.open(self.dictionary[name]['image'])
                         image = image.resize((1000, 600), Image.ANTIALIAS)
@@ -39,6 +42,7 @@ class TkApp(tk.Frame):
                         self.dufenshmerts.pack(side="top")
                         self.evil.configure(text = (self.dictionary[name]['text']))
                         self.evil.pack(side="top", fill = tk.BOTH, expand = 1)
+                        
                         for egg in self.perry:
                                 egg.pack_forget()
                         self.perry = []
@@ -47,7 +51,7 @@ class TkApp(tk.Frame):
                                 platypus.pack(side="top")
                                 self.perry.append(platypus)
                 
-                
+                '''
 
 app = TkApp(root)
 app.mainloop()
