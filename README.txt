@@ -33,9 +33,11 @@ If you are having trouble with Notepad, use Repl.it to run the program.
 command to run if program contains helper info
 ```
 
-## Mallory Butcher
+## Author
+* Mallory Butcher
+
+##Version Control
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
 * [Jared Butcher] (https://github.com/JaredButcher) 
