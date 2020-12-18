@@ -1,6 +1,6 @@
 # The Adventures Of Princess Mary
 
-Choose your own adventure guiding Princess Mary.
+Choose your own adventure guiding Princess Mary on a day of fun.
 
 ## Description
 
@@ -22,10 +22,6 @@ Choose your own adventure guiding Princess Mary.
 * If on Repl.it, press \"Run\" button at the top of your screen. If using Notepad, click \"Run\" at the top right on the window.
 * Press buttons on the screen with choices for how to move the story forward contained inside. 
 
-```
-code blocks for commands
-```
-
 ## Help
 
 If you are having trouble with Notepad, use Repl.it to run the program.
@@ -35,6 +31,8 @@ If you are having trouble with Notepad, use Repl.it to run the program.
 * Mallory Butcher
 
 ## Version History
+* 1.5 README finalized
+* 1.4 README final
 * 1.3 README fixed
 * 1.2 README corrected
 * 1.1 README added
