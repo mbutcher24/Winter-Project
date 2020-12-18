@@ -18,9 +18,9 @@ Choose your own adventure guiding Princess Mary.
 
 ### Executing program
 
-* 1. Open \"Princess Mary.py\" with Notepad or copy and paste code into a Repl.it.
-* 2. If on Repl.it, press \"Run\" button at the top of your screen. If using Notepad, click \"Run\" at the top right on the window.
-* 3. Press buttons on the screen with choices for how to move the story forward contained inside. 
+* Open \"Princess Mary.py\" with Notepad or copy and paste code into a Repl.it.
+* If on Repl.it, press \"Run\" button at the top of your screen. If using Notepad, click \"Run\" at the top right on the window.
+* Press buttons on the screen with choices for how to move the story forward contained inside. 
 
 ```
 code blocks for commands
